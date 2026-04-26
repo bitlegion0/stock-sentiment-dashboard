@@ -2,7 +2,7 @@
 
 A live dashboard that tracks 20 Nifty stocks using real NSE price data and news sentiment analysis to generate BUY / HOLD / SELL signals.
 
-**Live demo:** india-stock-sentiment.up.railway.app
+\*\*Live demo:\*\* \[india-stock-sentiment.up.railway.app](https://india-stock-sentiment.up.railway.app)
 
 \---
 
